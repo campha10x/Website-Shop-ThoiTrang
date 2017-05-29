@@ -1,0 +1,5 @@
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.Entity\bin\Debug\ShopThoiTrang.Entity.dll
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.Entity\bin\Debug\ShopThoiTrang.Entity.pdb
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.Entity\obj\Debug\ShopThoiTrang.Entity.csprojResolveAssemblyReference.cache
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.Entity\obj\Debug\ShopThoiTrang.Entity.dll
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.Entity\obj\Debug\ShopThoiTrang.Entity.pdb

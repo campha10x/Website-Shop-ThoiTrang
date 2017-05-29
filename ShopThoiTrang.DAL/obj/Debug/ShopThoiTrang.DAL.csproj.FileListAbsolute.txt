@@ -1,0 +1,14 @@
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.DAL\bin\Debug\ShopThoiTrang.DAL.dll
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.DAL\bin\Debug\ShopThoiTrang.DAL.pdb
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.DAL\bin\Debug\ShopThoiTrang.Entity.dll
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.DAL\bin\Debug\ShopThoiTrang.Entity.pdb
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.DAL\obj\Debug\ShopThoiTrang.DAL.csprojResolveAssemblyReference.cache
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.DAL\obj\Debug\ShopThoiTrang.DAL.dll
+E:\BaiTapWeb\DoAnMonWeb\ShopThoiTrang\ShopThoiTrang.DAL\obj\Debug\ShopThoiTrang.DAL.pdb
+E:\BaiTapWeb\DoAnMonWebASP.NET\ShopThoiTrang\ShopThoiTrang.DAL\bin\Debug\ShopThoiTrang.DAL.dll
+E:\BaiTapWeb\DoAnMonWebASP.NET\ShopThoiTrang\ShopThoiTrang.DAL\bin\Debug\ShopThoiTrang.DAL.pdb
+E:\BaiTapWeb\DoAnMonWebASP.NET\ShopThoiTrang\ShopThoiTrang.DAL\bin\Debug\ShopThoiTrang.Entity.dll
+E:\BaiTapWeb\DoAnMonWebASP.NET\ShopThoiTrang\ShopThoiTrang.DAL\bin\Debug\ShopThoiTrang.Entity.pdb
+E:\BaiTapWeb\DoAnMonWebASP.NET\ShopThoiTrang\ShopThoiTrang.DAL\obj\Debug\ShopThoiTrang.DAL.csprojResolveAssemblyReference.cache
+E:\BaiTapWeb\DoAnMonWebASP.NET\ShopThoiTrang\ShopThoiTrang.DAL\obj\Debug\ShopThoiTrang.DAL.dll
+E:\BaiTapWeb\DoAnMonWebASP.NET\ShopThoiTrang\ShopThoiTrang.DAL\obj\Debug\ShopThoiTrang.DAL.pdb
